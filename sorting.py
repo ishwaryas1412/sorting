@@ -1,4 +1,4 @@
-# Function calling 
+# Function calling SORTING
 def dictionairy(): 
 # Declare hash function	 
 key_value ={}	 
